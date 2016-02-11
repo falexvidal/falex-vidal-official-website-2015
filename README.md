@@ -8,3 +8,7 @@ www.falexvidal.com
 For more about me, check out my behance portfolio at:
 
 http://behance.net/falexvidal
+
+GitHub Page for this project:
+
+http://falexvidal.github.io/falex-vidal-official-website-2015
